@@ -1,0 +1,25 @@
+* {
+	font-family: monotype corsiva;
+}
+
+h1,h2 {
+	color: darkblue;
+	font-size: 45px;
+	text-align: center;
+	background-color: cyan;
+}
+
+p { 
+	background-color: orange;
+    text-align: center;
+    font-size: 35px;
+}
+ 
+#texto {
+	color: darkred;
+ }
+
+.logo {
+	text-align: center;
+	background-color: lightgoldenrodyellow;
+}
